@@ -1,5 +1,5 @@
--  Hi, I’m axolotl
--  Open source developer
+# Axolotl.cpp
+![Axo's GitHub stats](https://github-readme-stats.vercel.app/api?username=axolotl-git&show=prs_merged,prs_merged_percentage)
 
 
 <!---
