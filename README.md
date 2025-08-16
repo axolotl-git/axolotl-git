@@ -1,6 +1,7 @@
 # Axolotl.cpp
-![Axo's GitHub stats](https://github-readme-stats.vercel.app/api?username=axolotl-git&show=prs_merged,prs_merged_percentage)
+![Axo's GitHub stats](https://github-readme-stats.vercel.app/api?username=axolotl-git&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
 
+- if we make something FOSS then we can truly evolve our technology
 
 <!---
 axolotl-git/axolotl-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
